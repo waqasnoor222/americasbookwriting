@@ -83,9 +83,9 @@
       <div class="container-xl">
           <div class="row">
               <div class="col-lg-4">
-                  <a href="#" class="logo"><img class="lozad mb-3" data-src="assets/img/logo-black.png" alt="Americas Book Writing"></a>
-                  <p>At Americas Book Writing, we provide our clients with affordable professional writing, editing, and proofreading services that are tailored to their specific needs. Additionally, we assist our clients in promoting their work across various
-                      media and channels, utilizing advanced tools and our expertise. With our comprehensive range of content solutions, Americas Book Writing is your ultimate destination.</p>
+                  <a href="#" class="logo"><img class="lozad mb-3" data-src="assets/img/logo-black.png" alt="American Book Writing"></a>
+                  <p>At American Book Writing, we provide our clients with affordable professional writing, editing, and proofreading services that are tailored to their specific needs. Additionally, we assist our clients in promoting their work across various
+                      media and channels, utilizing advanced tools and our expertise. With our comprehensive range of content solutions, American Book Writing is your ultimate destination.</p>
               </div>
               <div class="col-lg-4">
                   <ul class="list-unstyled row pt-5 row-cols-2">
@@ -106,19 +106,19 @@
               <div class="col-lg-4 mt-5">
                   <ul>
                       <li class=""><a class="" href="tel:+1-315-636-4603"><i class="fa-solid fa-phone"></i> +1-315-636-4603</a></li>
-                      <li class="mt-3"><a href="mailto:iinfo@americanlogoagency.com"><i class="fa-solid fa-envelope"></i> info@americanlogoagency.com</a></li>
+                      <li class="mt-3"><a href="mailto:iinfo@americanlogoagency.com"><i class="fa-solid fa-envelope"></i> info@americanbookwriting.com</a></li>
                       <li class="mt-3"><i class="fa-solid fa-location-crosshairs"></i><a target="_blank" href="https://www.google.com/maps/place/9854+National+Blvd+%231025,+Los+Angeles,+CA+90034,+USA/@34.030561,-118.403689,16.75z/data=!4m5!3m4!1s0x80c2bbd31009e77d:0xbfe948c5af2b98d1!8m2!3d34.0304869!4d-118.400973?entry=ttu&amp;g_ep=EgoyMDI0MDkxOC4xIKXMDSoASAFQAw%3D%3D"> 9854 National Blvd # 1025, Los Angeles, CA 90034, United States</a></li>
                   </ul>
-                  <!-- <ul class="list-unstyled d-flex justify-content-center mb-0">
-                      <li class="pe-3 "><a href="https://www.facebook.com/americanlogoagency/" target="_blank"><i class="fa-brands fa-facebook f-24"></i></a></li>
-                      <li class="pe-3 "><a href="https://www.instagram.com/theamericanlogoagency/?igsh=cjk5dWkwaDZ3c2Zs" target="_blank"><i class="fa-brands fa-instagram f-24"></i></a></li>
-                      <li><a href="https://www.linkedin.com/company/american-logo-agency/posts/?feedView=all" target="_blank"><i class="fa-brands fa-linkedin f-24"></i></a></li>
-                  </ul> -->
+                  <ul class="list-unstyled d-flex justify-content-center mb-0">
+                      <li class="pe-3 "><a href="https://www.facebook.com/people/American-Book-Agency/61566386442218/?mibextid=ZbWKwL" target="_blank"><i class="fa-brands fa-facebook f-24"></i></a></li>
+                      <!-- <li class="pe-3 "><a href="https://www.instagram.com/theamericanlogoagency/?igsh=cjk5dWkwaDZ3c2Zs" target="_blank"><i class="fa-brands fa-instagram f-24"></i></a></li> -->
+                      <li><a href="https://www.facebook.com/people/American-Book-Agency/61566386442218/?mibextid=ZbWKwL" target="_blank"><i class="fa-brands fa-linkedin f-24"></i></a></li>
+                  </ul>
               </div>
           </div>
           <div class="row">
               <div class="col-lg-6 pt-3">
-                  <p class="mb-0">© Americas Book Writing 2024 All rights reserved.</p>
+                  <p class="mb-0">© American Book Writing 2024 All rights reserved.</p>
                   <!-- <p class="mb-0">Powered by ACEX Technologies INC</p> -->
               </div>
               <div class="col-lg-6">
@@ -144,7 +144,7 @@
               </div>
               <div class="modal-body">
                   <div class="row">
-                      <div class="col-md-6 d-lg-block d-none"><img class="lozad" data-src="assets/img/americas-pop-banner-img-Rev-2-1.webp" alt="Americas Book Writing "></div>
+                      <div class="col-md-6 d-lg-block d-none"><img class="lozad" data-src="assets/img/americas-pop-banner-img-Rev-2-1.webp" alt="American Book Writing "></div>
                       <div class="col-md-6 d-lg-block d-none">
                           <form action="https://americasbookwriting.com/index.php" method="post">
                               <div class="form-group">

@@ -8,7 +8,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
-    <title>Hire Americas Book Writing, the #1 Book Writing Agency in US</title>
+    <title>Hire American Book Writing, the #1 Book Writing Agency in US</title>
     <meta name="description" content="Hire the #1 Book Writing Agency in USA to get Professional Book Writing Services and turn your ideas into best-selling books. Call us now and get started today!">
     <meta name="robots" content="INDEX, FOLLOW" />
     <meta name="google-site-verification" content="4BmuwCfKlgNwqXQNoHftwQZxQIEDcWmdVEfKqCT4ZDM" />
