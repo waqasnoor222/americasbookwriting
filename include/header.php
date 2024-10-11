@@ -16,11 +16,11 @@
   <meta name="google-site-verification" content="4BmuwCfKlgNwqXQNoHftwQZxQIEDcWmdVEfKqCT4ZDM" />
   <script src="https://kit.fontawesome.com/f108d2f22a.js" crossorigin="anonymous" async></script>
 
-  <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="194x194" href="favicon-194x194.png">
-  <link rel="icon" type="image/png" sizes="192x192" href="android-chrome-192x192.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/img/fav_logo.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/img/fav_logo.png">
+  <link rel="icon" type="image/png" sizes="194x194" href="assets/img/fav_logo.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="assets/img/fav_logo.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="assets/img/fav_logo.png">
   <link rel="manifest" href="site.html">
   <link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
   <meta name="msapplication-TileColor" content="#ffffff">
@@ -38,7 +38,7 @@
     crossorigin="anonymous" media="all" />
   <link rel="stylesheet" rel="preload" as="style" type="text/css" href="assets/css/styleb60d.css?25-09-24_12:30:04"
     crossorigin="anonymous" media="all" />
-  <link rel="preload" fetchpriority="high" as="image" href="assets/img/logo-white.png" type="image/png">
+  <link rel="preload" fetchpriority="high" as="image" href="assets/img/fav_logo.png" type="image/png">
   <link rel="preload" fetchpriority="high" as="image" href="assets/img/video-poster.webp" type="image/webp">
   <link rel="preload" fetchpriority="high" as="video" href="assets/videos/bookwritingvideo-1.webm">
   <script type="text/javascript" src="assets/js/jquery-3.7.0.min.js"></script>
