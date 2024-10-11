@@ -1,11 +1,11 @@
 <?php 
  include 'include/header.php';
 ?>
-    <section class="py-5 banner position-relative">
+    <section class="py-5 banner position-relative vid_main">
       <video class="lozad position-absolute" data-poster="assets/img/video-poster.webp" autoplay muted playasline loop>
         <source data-src="assets/videos/bookwritingvideo-1.webm" type="video/mp4">
       </video>
-      <div class="container-xl ">
+      <div class="container-xl highlight_banner">
         <div class="row justify-content-center pt-5">
           <div class="col-lg-12 col-md-12 col-xl-11 text-white text-center pt-5">
             <p class="f-20">

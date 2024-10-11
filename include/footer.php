@@ -164,6 +164,16 @@
                               <div class="form-group mb-3">
                                   <input class="form-control" type="email" name="email" placeholder="Your Email" value="" required="required">
                               </div>
+
+                              <div class="form-group mb-3">
+                              <input class="form-control" type="tel" id="phone" name="phone" />
+                                  <!-- <input class="form-control" type="email" name="email" placeholder="Your Email" value="" required="required"> -->
+                              </div>
+
+
+                     
+                           
+
                               <div class="form-group mb-3">
                                   <input class="form-control" type="text" name="phone" minlength="14" maxlength="14" placeholder="Your Phone" value="" required="required">
                               </div>
@@ -180,7 +190,27 @@
       </div>
   </div>
     
-    
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/intlTelInput.min.js"></script>
+  <script>
+  const phoneInputField = document.querySelector("#phone");
+  const phoneInput = window.intlTelInput(phoneInputField, {
+    preferredCountries: ["us", "gb", "ca", "au"], // Customize this list
+    utilsScript: "https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/utils.js",
+  });
+</script>
+    <!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/67090c142480f5b4f58bf1b3/1i9tlecer';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
     
     <script type="text/javascript" src="assets/js/plugin.js"></script><script type="text/javascript" src="assets/js/lozad.min.js"></script><script type="text/javascript" src="assets/js/customb60d.js?25-09-24_12:30:04"></script><script src="../kit.fontawesome.com/f108d2f22a.js" crossorigin="anonymous" async></script><script>
       const observer = lozad('.lozad', {
