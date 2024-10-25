@@ -9,18 +9,18 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta charset="utf-8">
-  <title>Hire American Book Writing, the #1 Book Writing Agency in US</title>
+  <title>Hire American Book Agency, the #1 Book Writing Agency in US</title>
   <meta name="description"
     content="Hire the #1 Book Writing Agency in USA to get Professional Book Writing Services and turn your ideas into best-selling books. Call us now and get started today!">
   <meta name="robots" content="INDEX, FOLLOW" />
   <meta name="google-site-verification" content="4BmuwCfKlgNwqXQNoHftwQZxQIEDcWmdVEfKqCT4ZDM" />
   <script src="https://kit.fontawesome.com/f108d2f22a.js" crossorigin="anonymous" async></script>
 
-  <link rel="apple-touch-icon" sizes="180x180" href="assets/img/fav_logo.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="assets/img/fav_logo.png">
-  <link rel="icon" type="image/png" sizes="194x194" href="assets/img/fav_logo.png">
-  <link rel="icon" type="image/png" sizes="192x192" href="assets/img/fav_logo.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="assets/img/fav_logo.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/img/fav.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/img/fav.png">
+  <link rel="icon" type="image/png" sizes="194x194" href="assets/img/fav.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="assets/img/fav.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="assets/img/fav.png">
   <link rel="manifest" href="site.html">
   <link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
   <meta name="msapplication-TileColor" content="#ffffff">
@@ -38,7 +38,7 @@
     crossorigin="anonymous" media="all" />
   <link rel="stylesheet" rel="preload" as="style" type="text/css" href="assets/css/styleb60d.css?25-09-24_12:30:04"
     crossorigin="anonymous" media="all" />
-  <link rel="preload" fetchpriority="high" as="image" href="assets/img/fav_logo.png" type="image/png">
+  <link rel="preload" fetchpriority="high" as="image" href="assets/img/fav.png" type="image/png">
   <link rel="preload" fetchpriority="high" as="image" href="assets/img/video-poster.webp" type="image/webp">
   <link rel="preload" fetchpriority="high" as="video" href="assets/videos/bookwritingvideo-1.webm">
   <script type="text/javascript" src="assets/js/jquery-3.7.0.min.js"></script>
@@ -53,6 +53,13 @@
     gtag('js', new Date());
     gtag('config', 'G-NHNZELSS81');
   </script>
+  <style>
+    @media screen and (max-width: 992px) {
+      .logo{
+        margin-bottom: 50px;
+    }
+  }
+  </style>
 </head>
 
 <body class="home">
@@ -65,7 +72,7 @@
       <div class="row align-items-center">
         <div class="col-lg-2 col-md-4 col-6">
           <a href="index.php" class="logo">
-            <img class="lozad" data-src="assets/img/logo.png">
+            <img class="lozad" data-src="assets/img/white_logo.png">
           </a>
         </div>
         <div class="col-6 col-md-8 text-end nav-open d-lg-none ">
@@ -76,7 +83,7 @@
             <li class="row align-items-center pt-2 d-lg-none">
               <a href="index.php" class=" col-lg-2 col-md-4 col-6">
                 <div class="logo">
-                  <img class="lozad" data-src="assets/img/logo.png">
+                  <img class="lozad" data-src="assets/img/white_logo.png">
                 </div>
               </a>
               <div class="col-6 col-md-8 text-end nav-open d-lg-none ">

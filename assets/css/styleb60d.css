@@ -341,7 +341,7 @@ header {
 }
 .vid_main{
     position: relative;
-    &::before{
+    /* &::before{
         position: absolute;
         content: '';
         height: 100%;
@@ -349,7 +349,7 @@ header {
         background: #bebebe66;
         top: 0;
         z-index: 1;
-    }
+    } */
 }
 .bannerbook {
   margin-top: -70px;

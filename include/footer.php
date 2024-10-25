@@ -83,9 +83,9 @@
       <div class="container-xl">
           <div class="row">
               <div class="col-lg-4">
-                  <a href="#" class="logo"><img class="lozad mb-3" data-src="assets/img/logo-black.png" alt="American Book Writing"></a>
-                  <p>At American Book Writing, we provide our clients with affordable professional writing, editing, and proofreading services that are tailored to their specific needs. Additionally, we assist our clients in promoting their work across various
-                      media and channels, utilizing advanced tools and our expertise. With our comprehensive range of content solutions, American Book Writing is your ultimate destination.</p>
+                  <a href="#" class=""><img class="lozad mb-3" data-src="assets/img/colored_logo.png" alt="American Book Agency" style="width: 150px; height: 150px; margin: auto; display: block;"></a>
+                  <p>At American Book Agency, we provide our clients with affordable professional writing, editing, and proofreading services that are tailored to their specific needs. Additionally, we assist our clients in promoting their work across various
+                      media and channels, utilizing advanced tools and our expertise. With our comprehensive range of content solutions, American Book Agency is your ultimate destination.</p>
               </div>
               <div class="col-lg-4">
                   <ul class="list-unstyled row pt-5 row-cols-2">
@@ -118,7 +118,7 @@
           </div>
           <div class="row">
               <div class="col-lg-6 pt-3">
-                  <p class="mb-0">© American Book Writing 2024 All rights reserved.</p>
+                  <p class="mb-0">© American Book Agency 2024 All rights reserved.</p>
                   <!-- <p class="mb-0">Powered by ACEX Technologies INC</p> -->
               </div>
               <div class="col-lg-6">
@@ -144,7 +144,7 @@
               </div>
               <div class="modal-body">
                   <div class="row">
-                      <div class="col-md-6 d-lg-block d-none"><img class="lozad" data-src="assets/img/americas-pop-banner-img-Rev-2-1.webp" alt="American Book Writing "></div>
+                      <div class="col-md-6 d-lg-block d-none"><img class="lozad" data-src="assets/img/americas-pop-banner-img-Rev-2-1.webp" alt="American Book Agency "></div>
                       <div class="col-md-6 d-lg-block d-none">
                           <form action="https://americasbookwriting.com/index.php" method="post">
                               <div class="form-group">
