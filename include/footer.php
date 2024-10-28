@@ -1,3 +1,5 @@
+
+
 <section class="">
       <div class="row">
           <div class="col-lg-6 bg-d py-5">
@@ -146,7 +148,10 @@
                   <div class="row">
                       <div class="col-md-6 d-lg-block d-none"><img class="lozad" data-src="assets/img/americas-pop-banner-img-Rev-2-1.webp" alt="American Book Agency "></div>
                       <div class="col-md-6 d-lg-block d-none">
-                          <form action="https://americasbookwriting.com/index.php" method="post">
+                      <!-- https://americasbookwriting.com/thankyou -->
+                      <!-- https://americasbookwriting.com/index.php -->
+                          <!-- <form  action="<?php echo htmlspecialchars($_SERVER['PHP_SELF']); ?>" method="post"> -->
+                          <form  action="<?php echo htmlspecialchars($_SERVER['PHP_SELF']); ?>" method="post">
                               <div class="form-group">
                                   <input type="hidden" name="domain" value="americasbookwriting.com">
                                   <input type="hidden" name="ip" value="144.48.128.170">

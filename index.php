@@ -1,5 +1,43 @@
-<?php 
+<?php
+
+if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+    // Process form data
+    $name = htmlspecialchars($_POST['name']);
+    $email = htmlspecialchars($_POST['email']);
+    $phone = htmlspecialchars($_POST['phone']);
+    $message = htmlspecialchars($_POST['message']);
+    $subject = "New Submission from {$name}";
+
+    // Recipient email
+    $to = "tahmeerhussain1@gmail.com"; // Replace with the actual recipient email
+
+    // Email body
+    $body = "You have received a new message from the website form:\n\n";
+    $body .= "Name: $name\n";
+    $body .= "Email: $email\n";
+    $body .= "Phone: $phone\n";
+    $body .= "Message: $message\n";
+
+    // Headers
+    $headers = "From: $email\r\n";
+    $headers .= "Reply-To: $email\r\n";
+    
+    // Send the email
+    if (mail($to, $subject, $body, $headers)) {
+      var_dump("Email Sent"); die();
+        // Refresh page to clear form data
+        echo "<script>window.location.href = window.location.href;</script>";
+        exit();
+    } else {
+        echo "Email sending failed.";
+    }
+}
+
+
  include 'include/header.php';
+
+
+
 ?>
     <section class="py-5 banner position-relative vid_main">
       <video class="lozad position-absolute" data-poster="assets/img/video-poster.webp" autoplay muted playasline loop>
