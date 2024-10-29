@@ -30,25 +30,25 @@
         <div class="container-xl">
             <div class="row text-center text-white py-4">
                 <div class="col-lg-3 col-md-6 col-sm-12">
-                    <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_1.webp" alt="American Book Agency">
+                    <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_1.png" alt="American Book Agency">
                         <p class="mt-3"><b>Unmatched Proficiency</b></p>
                         <p> Do you desire to have your book reach and influence more readers? Then, we’re here to make that happen. Our book marketing agency crafts strategic campaigns to engage your target audience.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-12">
-                    <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_2.webp" alt="American Book Agency">
+                    <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_2.png" alt="American Book Agency">
                         <p class="mt-3"><b>Efficient Solutions</b></p>
                         <p> In a saturated marketplace, our professional book promotion company ensures that your book stands out. We design eye-catching covers and craft compelling blurbs that grab attention.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-12">
-                    <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_3.webp" alt="American Book Agency">
+                    <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_3.png" alt="American Book Agency">
                         <p class="mt-3"> <b> Customized Strategies</b></p>
                         <p> At American Book Agency, we adopt a data-driven methodology, analyzing results and fine-tuning our approach to maximize the results. Partner with the best book promotion agency and broadens your reach across the globe.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-12">
-                    <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_4.webp" alt="American Book Agency">
+                    <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_4.png" alt="American Book Agency">
                         <p class="mt-3"><b>Engaging Narratives</b></p>
                         <p>Effective book promotion services can elevate your work from the overlooked to the spotlight. We’ve partnered with leading book marketing experts to ensure your book gets the recognition it deserves.</p>
                     </div>
@@ -109,7 +109,7 @@
         </div>
         <div class="container-xl">
             <div class="row align-items-center">
-                <div class="bookimages col-lg-6 col-md-6 col-sm-12"><img class="lozad" data-src="assets/img/Book-Video-2.webp" alt="American Book Agency"></div>
+                <div class="bookimages col-lg-6 col-md-6 col-sm-12"><img class="lozad" data-src="assets/img/Book-Video-2.png" alt="American Book Agency"></div>
                 <div class=" col-lg-6 col-md-6 col-sm-12">
                     <h2 class="fw-700 f-36">Promote Your Book With The #1 Book Promotion & Marketing Company in USA</h2>
                     <p>In the vast ocean of digital publications, standing out is a necessity that you can’t ignore. Our premier affordable book promotion services don’t just offer solutions. No, we offer results. From targeted email campaigns to social

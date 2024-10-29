@@ -30,25 +30,25 @@ include 'include/header.php';
         <div class="container-xl">
             <div class="row text-center text-white py-4">
                 <div class="col-lg-3 col-md-6 col-sm-12">
-                    <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_1.webp" alt="American Book Agency">
+                    <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_1.png" alt="American Book Agency">
                         <p class="mt-3"><b>Expert Guidance</b></p>
                         <p>Benefit from the wisdom and experience of our seasoned book proofreading experts. We provide constructive feedback and valuable insights to elevate your manuscript to its highest potential.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-12">
-                    <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_2.webp" alt="American Book Agency">
+                    <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_2.png" alt="American Book Agency">
                         <p class="mt-3"><b>Affordability</b></p>
                         <p>Our book editing services are competitively priced to provide you with the highest quality book editing and proofreading services without breaking the bank. We believe in delivering value for money.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-12">
-                    <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_3.webp" alt="American Book Agency">
+                    <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_3.png" alt="American Book Agency">
                         <p class="mt-3"><b>Time-Saving</b></p>
                         <p>Our book editing company’s services save you time by taking care of the meticulous process of editing and proofreading, allowing you to focus on your creative process.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-12">
-                    <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_4.webp" alt="American Book Agency">
+                    <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_4.png" alt="American Book Agency">
                         <p class="mt-3"><b>Quality Assurance</b></p>
                         <p>As the best book proofreading agency in USA, we are committed to excellence. Our quality checks ensure your manuscript is polished, free of errors, and ready for publication. Your satisfaction is our top priority.</p>
                     </div>
@@ -108,7 +108,7 @@ include 'include/header.php';
         </div>
         <div class="container-xl">
             <div class="row align-items-center">
-                <div class="bookimages col-lg-6 col-md-6 col-sm-12"><img class="lozad" data-src="assets/img/Book-Video-2.webp" alt="American Book Agency"></div>
+                <div class="bookimages col-lg-6 col-md-6 col-sm-12"><img class="lozad" data-src="assets/img/Book-Video-2.png" alt="American Book Agency"></div>
                 <div class=" col-lg-6 col-md-6 col-sm-12">
                     <h2 class="fw-700 f-36"> Let Our Book Proofreading Experts Elevate Your Manuscript Today</h2>
                     <p>At American Book Agency, we understand the power of words and the importance of their precision. Our team of book proofreading experts is dedicated to ensuring that your manuscript is free from errors and ready for the world to see.

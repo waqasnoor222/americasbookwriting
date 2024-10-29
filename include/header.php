@@ -54,10 +54,22 @@
     gtag('config', 'G-NHNZELSS81');
   </script>
   <style>
+    .logo img {
+    width: 140px;
+    height: 93px;
+    object-fit: contain;
+    margin-top: 10px;
+}
     @media screen and (max-width: 992px) {
       .logo{
-        margin-bottom: 50px;
+        margin-bottom: 0px;
+        width: 78px;
     }
+    .logo img {
+      width: 162px;
+        height: 68px;
+        object-fit: contain;
+}
   }
   </style>
 </head>

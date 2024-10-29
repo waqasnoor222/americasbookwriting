@@ -33,25 +33,25 @@
         <div class="container-xl">
             <div class="row text-center text-white py-4">
                 <div class="col-lg-3 col-md-6 col-sm-12">
-                    <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_1.webp" alt="American Book Agency">
+                    <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_1.png" alt="American Book Agency">
                         <p class="mt-3"><b>Professional Expertise</b></p>
                         <p>American Book Agency is a professional eBook writing agency that has a team of leading eBook writers with unparalleled degrees of expertise in writing for all varieties of genres.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-12">
-                    <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_2.webp" alt="American Book Agency">
+                    <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_2.png" alt="American Book Agency">
                         <p class="mt-3"><b>Time-Saving Solution</b></p>
                         <p>With our professional eBook writing services, you can save time and focus on other aspects of your book while our team of expert eBook writers takes care of the writing process.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-12">
-                    <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_3.webp" alt="American Book Agency">
+                    <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_3.png" alt="American Book Agency">
                         <p class="mt-3"><b>Tailored Content</b></p>
                         <p> We understand and value the uniqueness of your idea. That’s why our best-seller eBook writers offer customized writing solutions that are tailored to your specific needs.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-12">
-                    <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_4.webp" alt="American Book Agency">
+                    <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_4.png" alt="American Book Agency">
                         <p class="mt-3"><b>Captivating Writing</b></p>
                         <p>Our team of expert eBook writers at American Book Agency has a knack for storytelling and knows how to create content that resonates with readers and immerses their reading experience.</p>
                     </div>
@@ -113,7 +113,7 @@
         </div>
         <div class="container-xl">
             <div class="row align-items-center">
-                <div class="bookimages col-lg-6 col-md-6 col-sm-12"><img class="lozad" data-src="assets/img/Book-Video-2.webp" alt="American Book Agency"></div>
+                <div class="bookimages col-lg-6 col-md-6 col-sm-12"><img class="lozad" data-src="assets/img/Book-Video-2.png" alt="American Book Agency"></div>
                 <div class=" col-lg-6 col-md-6 col-sm-12">
                     <h2 class="fw-700 f-36">Leaders Of eBook Writing Services In USA</h2>
                     <p>American Book Agency is home to a team of professional eBook writers for hire that has written some of the best sellers you must have read. Our dedicated professionals are not just wordsmiths; they are passionate storytellers equipped

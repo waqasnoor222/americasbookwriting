@@ -39,7 +39,7 @@ include 'include/header.php';
     <div class="container-xl">
         <div class="row text-center text-white py-4">
             <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_1.webp"
+                <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_1.png"
                         alt="American Book Agency">
                     <p class="mt-3"><b>Time Saving</b></p>
                     <p>By hiring a professional article writing company, you can delegate the task of writing and
@@ -47,7 +47,7 @@ include 'include/header.php';
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_2.webp"
+                <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_2.png"
                         alt="American Book Agency">
                     <p class="mt-3"><b>Plagiarism-Free</b></p>
                     <p> Professional article publication services will ensure that your articles are original and unique
@@ -55,7 +55,7 @@ include 'include/header.php';
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_3.webp"
+                <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_3.png"
                         alt="American Book Agency">
                     <p class="mt-3"><b>SEO Optimization</b></p>
                     <p> A professional article company will help you optimize your articles for search engines, by using
@@ -64,7 +64,7 @@ include 'include/header.php';
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_4.webp"
+                <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_4.png"
                         alt="American Book Agency">
                     <p class="mt-3"> <b>Increased Visibility</b></p>
                     <p>Professional article publication services will help you publish your articles on various
@@ -162,7 +162,7 @@ include 'include/header.php';
     <div class="container-xl">
         <div class="row align-items-center">
             <div class="bookimages col-lg-6 col-md-6 col-sm-12"><img class="lozad"
-                    data-src="assets/img/Book-Video-2.webp" alt="American Book Agency"></div>
+                    data-src="assets/img/Book-Video-2.png" alt="American Book Agency"></div>
             <div class=" col-lg-6 col-md-6 col-sm-12">
                 <h2 class="fw-700 f-36"> Hire The Best Article Writing Services In USA To Boost Your Online Visibility &
                     Authority</h2>

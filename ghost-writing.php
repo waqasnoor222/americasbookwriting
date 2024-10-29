@@ -30,25 +30,25 @@ include 'include/header.php';
         <div class="container-xl">
             <div class="row text-center text-white py-4">
                 <div class="col-lg-3 col-md-6 col-sm-12">
-                    <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_1.webp" alt="American Book Agency">
+                    <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_1.png" alt="American Book Agency">
                         <p class="mt-3"><b>Ownership</b></p>
                         <p>With our ghost writing company, you retain full ownership of your book and all its rights. This means that you have complete control over how your book is published and distributed.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-12">
-                    <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_2.webp" alt="American Book Agency">
+                    <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_2.png" alt="American Book Agency">
                         <p class="mt-3"><b>Flexibility</b></p>
                         <p>Our ghost writers services are designed to work with you to create a book that meets your specific needs and requirements. This means that you can customize your book to suit your preferences and style.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-12">
-                    <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_3.webp" alt="American Book Agency">
+                    <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_3.png" alt="American Book Agency">
                         <p class="mt-3"><b>Audience Reach</b></p>
                         <p>Our ghost writing services help you create a book that resonates with your readers. This means that your book will be more likely to reach a wider audience and generate more interest.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-12">
-                    <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_4.webp" alt="American Book Agency">
+                    <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_4.png" alt="American Book Agency">
                         <p class="mt-3"><b>Performance</b></p>
                         <p>American Book Agency’s ghost writer services help you create a book that is both engaging and informative. This means that your book will be more likely to perform well in the market and attract positive reviews.</p>
                     </div>
@@ -110,7 +110,7 @@ include 'include/header.php';
         </div>
         <div class="container-xl">
             <div class="row align-items-center">
-                <div class="bookimages col-lg-6 col-md-6 col-sm-12"><img class="lozad" data-src="assets/img/Book-Video-2.webp" alt="American Book Agency"></div>
+                <div class="bookimages col-lg-6 col-md-6 col-sm-12"><img class="lozad" data-src="assets/img/Book-Video-2.png" alt="American Book Agency"></div>
                 <div class=" col-lg-6 col-md-6 col-sm-12">
                     <h2 class="fw-700 f-36">Hire The Best Ghost Writing Company In USA To Increase Your Reach</h2>
                     <p>At American Book Agency, our ghost writing company, we are confident in our teams of genre-specific writers, who are committed to fully utilizing your creative abilities. As an author, if you're looking to enhance your productivity,

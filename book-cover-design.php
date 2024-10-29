@@ -30,25 +30,25 @@ include 'include/header.php';
         <div class="container-xl">
             <div class="row text-center text-white py-4">
                 <div class="col-lg-3 col-md-6 col-sm-12">
-                    <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_1.webp" alt="American Book Agency">
+                    <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_1.png" alt="American Book Agency">
                         <p class="mt-3"><b>Stunning Designs</b></p>
                         <p>Capture readers at first glance with unique, eye-catching visuals that perfectly embody your story.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-12">
-                    <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_2.webp" alt="American Book Agency">
+                    <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_2.png" alt="American Book Agency">
                         <p class="mt-3"><b>Top-Notch Quality</b></p>
                         <p>Experience the difference with our professional book cover designs and get high-resolution graphics to ensure a polished, premium cover.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-12">
-                    <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_3.webp" alt="American Book Agency">
+                    <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_3.png" alt="American Book Agency">
                         <p class="mt-3"><b>Personalized Covers</b></p>
                         <p> Tell your story visually by collaborating with our expert team to create a unique cover that's an extension of your narrative.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-12">
-                    <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_4.webp" alt="American Book Agency">
+                    <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_4.png" alt="American Book Agency">
                         <p class="mt-3"><b> Easy Process</b></p>
                         <p>Focus on your writing while we handle the book cover design - relax, click, and get your perfect cover in no time.</p>
                     </div>
@@ -106,7 +106,7 @@ include 'include/header.php';
         </div>
         <div class="container-xl">
             <div class="row align-items-center">
-                <div class="bookimages col-lg-6 col-md-6 col-sm-12"><img class="lozad" data-src="assets/img/Book-Video-2.webp" alt="American Book Agency"></div>
+                <div class="bookimages col-lg-6 col-md-6 col-sm-12"><img class="lozad" data-src="assets/img/Book-Video-2.png" alt="American Book Agency"></div>
                 <div class=" col-lg-6 col-md-6 col-sm-12">
                     <h2 class="fw-700 f-36">Hire Book Cover Design Services And Get High Return On Investment</h2>
                     <p>In the world of book publishing, it is commonly said that we should not judge a book by its cover. However, it is also true that a well-designed book cover can attract more buyers and increase sales. At American Book Agency, we understand

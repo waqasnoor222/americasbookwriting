@@ -30,25 +30,25 @@
         <div class="container-xl">
             <div class="row text-center text-white py-4">
                 <div class="col-lg-3 col-md-6 col-sm-12">
-                    <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_1.webp" alt="American Book Agency">
+                    <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_1.png" alt="American Book Agency">
                         <p class="mt-3"><b>Multisensory</b></p>
                         <p> Immerse readers in a captivating blend of visuals, sound, and emotion. Our book video services engage multiple senses, making your story unforgettable.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-12">
-                    <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_2.webp" alt="American Book Agency">
+                    <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_2.png" alt="American Book Agency">
                         <p class="mt-3"><b>Convenience</b></p>
                         <p>Streamline your book marketing journey. With our book video services, you’ll effortlessly showcase your book to a global audience, saving time and effort.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-12">
-                    <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_3.webp" alt="American Book Agency">
+                    <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_3.png" alt="American Book Agency">
                         <p class="mt-3"><b>Audience Reach</b></p>
                         <p>Extend your book’s reach beyond the written page. Our personalized video books resonate across platforms, connecting with diverse audiences worldwide.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-12">
-                    <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_4.webp" alt="American Book Agency">
+                    <div class="box "><img class="lozad" data-src="assets/img/publication_benifits_icon_4.png" alt="American Book Agency">
                         <p class="mt-3"><b> Improved Book Promotion</b></p>
                         <p>Elevate your book’s visibility. Our expertly crafted book trailer enhances promotional efforts, leaving a lasting impact on potential readers.</p>
                     </div>
@@ -109,7 +109,7 @@
         </div>
         <div class="container-xl">
             <div class="row align-items-center">
-                <div class="bookimages col-lg-6 col-md-6 col-sm-12"><img class="lozad" data-src="assets/img/Book-Video-2.webp" alt="American Book Agency"></div>
+                <div class="bookimages col-lg-6 col-md-6 col-sm-12"><img class="lozad" data-src="assets/img/Book-Video-2.png" alt="American Book Agency"></div>
                 <div class=" col-lg-6 col-md-6 col-sm-12">
                     <h2 class="fw-700 f-36">Transform Your Words Into A Personalized Book Trailer With #1 Book Video Experts	In USA</h2>
                     <p>In the digital age, words alone aren’t enough to fulfill readers. Enter book trailer - your secret weapon to engage audiences and leave a lasting impression. Personalized video books transcend static text. They blend visuals, music,

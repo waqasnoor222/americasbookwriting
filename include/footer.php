@@ -100,7 +100,7 @@
                       <li class="mb-3 col"><a href="article-publication.php">Article Publication</a></li>
                       <li class="mb-3 col"><a href="ghost-writing.php">Ghost Writing</a></li>
                       <li class="mb-3 col"><a href="book-cover-design.php">Book Cover Design</a></li>
-                      <li class="mb-3 col"><a href="#">Blogs</a></li>
+                      <!-- <li class="mb-3 col"><a href="#">Blogs</a></li> -->
                       <li class="mb-3 col"><a href="terms-conditions.php">Terms Conditions</a></li>
                       <li class="mb-3 col"><a href="privacy-policy.php">Privacy Policy</a></li>
                   </ul>
@@ -123,7 +123,7 @@
                   <p class="mb-0">© American Book Agency 2024 All rights reserved.</p>
                   <!-- <p class="mb-0">Powered by ACEX Technologies INC</p> -->
               </div>
-              <div class="col-lg-6">
+              <!-- <div class="col-lg-6">
                   <ul class="list-unstyled d-flex justify-content-end mb-0 ">
                       <li class="dmc pe-3">
                           <a href="assets/img/dmca-certificate.png" target="_blank"><img class="lozad" data-src="assets/img/dmca-protection.webp"></a>
@@ -132,7 +132,7 @@
                           <a href="assets/img/dmca-certificate.png" target="_blank"><img class="lozad" data-src="assets/img/dmca-compliance.png"></a>
                       </li>
                   </ul>
-              </div>
+              </div> -->
           </div>
       </div>
   </footer>
