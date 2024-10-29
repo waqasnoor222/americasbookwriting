@@ -1,5 +1,35 @@
 <?php
 
+include('smtp/PHPMailerAutoload.php');
+
+function smtp_mailer($to,$subject, $msg){
+  $mail = new PHPMailer(); 
+  $mail->IsSMTP(); 
+  $mail->SMTPAuth = true; 
+  $mail->SMTPSecure = 'tls'; 
+  $mail->Host = "smtp.gmail.com";
+  $mail->Port = 587; 
+  $mail->IsHTML(true);
+  $mail->CharSet = 'UTF-8';
+  //$mail->SMTPDebug = 2; 
+  $mail->Username = "tahmeerhussain1@gmail.com";
+  $mail->Password = "zqulzmmsagjjylan";
+  $mail->SetFrom("tahmeerhussain1@gmail.com");
+  $mail->Subject = $subject;
+  $mail->Body =$msg;
+  $mail->AddAddress($to);
+  $mail->SMTPOptions=array('ssl'=>array(
+    'verify_peer'=>false,
+    'verify_peer_name'=>false,
+    'allow_self_signed'=>false
+  ));
+  if(!$mail->Send()){
+    echo $mail->ErrorInfo;
+  }else{
+    return 'Sent';
+  }
+}
+
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     // Process form data
     $name = htmlspecialchars($_POST['name']);
@@ -9,10 +39,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $subject = "New Submission from {$name}";
 
     // Recipient email
-    $to = "tahmeerhussain1@gmail.com"; // Replace with the actual recipient email
+   // Replace with the actual recipient email
 
     // Email body
-    $body = "You have received a new message from the website form:\n\n";
+    $body = "";
     $body .= "Name: $name\n";
     $body .= "Email: $email\n";
     $body .= "Phone: $phone\n";
@@ -22,15 +52,19 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $headers = "From: $email\r\n";
     $headers .= "Reply-To: $email\r\n";
     
-    // Send the email
-    if (mail($to, $subject, $body, $headers)) {
-      var_dump("Email Sent"); die();
-        // Refresh page to clear form data
-        echo "<script>window.location.href = window.location.href;</script>";
+
+    $result = smtp_mailer($email, $subject, $body);
+
+    if ($result === 'Sent') {
+        $baseUrl = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http") . "://$_SERVER[HTTP_HOST]";
+
+        $thankYouUrl = $baseUrl . "/thankyou";
+        header("Location: $thankYouUrl");
         exit();
-    } else {
-        echo "Email sending failed.";
-    }
+  } else {
+      echo "Error: " . $result;
+  }
+    
 }
 
 
