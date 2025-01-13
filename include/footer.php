@@ -179,9 +179,9 @@
                      
                            
 
-                              <div class="form-group mb-3">
+                              <!-- <div class="form-group mb-3">
                                   <input class="form-control" type="text" name="phone" minlength="14" maxlength="14" placeholder="Your Phone" value="" required="required">
-                              </div>
+                              </div> -->
                               <div class="form-group mb-3">
                                   <textarea class="form-control" autocomplete="nope" name="message" placeholder="Enter Brief"></textarea>
                               </div>

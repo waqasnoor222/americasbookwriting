@@ -58,7 +58,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     if ($result === 'Sent') {
         $baseUrl = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http") . "://$_SERVER[HTTP_HOST]";
 
-        $thankYouUrl = $baseUrl . "/thankyou";
+        $thankYouUrl = $baseUrl . "/thank-you.php";
         header("Location: $thankYouUrl");
         exit();
   } else {

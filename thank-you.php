@@ -32,7 +32,7 @@
     .thank-you-container h1 {
       font-size: 2.5rem;
       margin-bottom: 20px;
-      color: #4CAF50;
+      color: rgb(192, 10, 48);
     }
 
     .thank-you-container p {
@@ -52,7 +52,7 @@
     }
 
     .thank-you-container a:hover {
-      background: #45a049;
+      background: rgb(192, 10, 48);
     }
   </style>
 </head>
