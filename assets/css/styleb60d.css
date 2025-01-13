@@ -635,7 +635,7 @@ button.accordion-button {
   padding-left: 50px !important;
 }
 input[name="phone"] {
-  padding-left: 75px !important;
+  /* padding-left: 75px !important; */
 }
 .points li {
   list-style-type: disc;
