@@ -109,12 +109,13 @@
                   <ul>
                       <li class=""><a class="" href="tel:+1-315-636-4603"><i class="fa-solid fa-phone"></i> +1-315-636-4603</a></li>
                       <li class="mt-3"><a href="mailto:iinfo@americanlogoagency.com"><i class="fa-solid fa-envelope"></i> info@americanbookwriting.com</a></li>
-                      <li class="mt-3"><i class="fa-solid fa-location-crosshairs"></i><a target="_blank" href="https://www.google.com/maps/place/9854+National+Blvd+%231025,+Los+Angeles,+CA+90034,+USA/@34.030561,-118.403689,16.75z/data=!4m5!3m4!1s0x80c2bbd31009e77d:0xbfe948c5af2b98d1!8m2!3d34.0304869!4d-118.400973?entry=ttu&amp;g_ep=EgoyMDI0MDkxOC4xIKXMDSoASAFQAw%3D%3D"> 9854 National Blvd # 1025, Los Angeles, CA 90034, United States</a></li>
+                      <li class="mt-3"><i class="fa-solid fa-location-crosshairs"></i><a target="_blank" href="https://www.google.com/maps/place/9854+National+Blvd+%231025,+Los+Angeles,+CA+90034,+USA/@34.030561,-118.403689,16.75z/data=!4m5!3m4!1s0x80c2bbd31009e77d:0xbfe948c5af2b98d1!8m2!3d34.0304869!4d-118.400973?entry=ttu&amp;g_ep=EgoyMDI0MDkxOC4xIKXMDSoASAFQAw%3D%3D"> 6th Floor, Suite 621, Lexington Ave Suite 300 RM 332, New York, NY, United States, 10174
+                      </a></li>
                   </ul>
                   <ul class="list-unstyled d-flex justify-content-center mb-0">
                       <li class="pe-3 "><a href="https://www.facebook.com/people/American-Book-Agency/61566386442218/?mibextid=ZbWKwL" target="_blank"><i class="fa-brands fa-facebook f-24"></i></a></li>
                       <!-- <li class="pe-3 "><a href="https://www.instagram.com/theamericanlogoagency/?igsh=cjk5dWkwaDZ3c2Zs" target="_blank"><i class="fa-brands fa-instagram f-24"></i></a></li> -->
-                      <li><a href="https://www.facebook.com/people/American-Book-Agency/61566386442218/?mibextid=ZbWKwL" target="_blank"><i class="fa-brands fa-linkedin f-24"></i></a></li>
+                      <li><a href="https://www.linkedin.com/company/american-book-agency/" target="_blank"><i class="fa-brands fa-linkedin f-24"></i></a></li>
                   </ul>
               </div>
           </div>
@@ -146,8 +147,8 @@
               </div>
               <div class="modal-body">
                   <div class="row">
-                      <div class="col-md-6 d-lg-block d-none"><img class="lozad" data-src="assets/img/americas-pop-banner-img-Rev-2-1.webp" alt="American Book Agency "></div>
-                      <div class="col-md-6 d-lg-block d-none">
+                      <div class="col-md-6 d-lg-block"><img class="lozad" data-src="assets/img/americas-pop-banner-img-Rev-2-1.webp" alt="American Book Agency "></div>
+                      <div class="col-md-6 d-lg-block">
                       <!-- https://americasbookwriting.com/thankyou -->
                       <!-- https://americasbookwriting.com/index.php -->
                           <!-- <form  action="<?php echo htmlspecialchars($_SERVER['PHP_SELF']); ?>" method="post"> -->
