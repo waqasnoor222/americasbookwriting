@@ -532,7 +532,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
           </div>
         </div>
       </div>
-      <div class="item py-5 ">
+      <div class="item py-5 " style="background-image: url(assets/img/bg-1-min.webp);">
         <img data-lazy="assets/img/scifi.webp" class="image">
         <div class="container">
           <div class="row text-center">
