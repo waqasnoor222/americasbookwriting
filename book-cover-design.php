@@ -1,8 +1,8 @@
 <?php
 include 'include/header.php';
 ?>
-    <section class="ebookbanner banner position-relative lozad text-white" data-background-image="assets/img/services-banner.webp">
-        <div class="overlay py-5">
+    <section class="ebookbanner banner position-relative lozad text-white" data-background-image="assets/img/book-cover-banner-bg.jpg">
+        <div class="py-5">
             <div class="container-xl py-5 ">
                 <div class="row pt-5 mt-5">
                     <div class="col-xl-6 col-lg-7 col-12 mt-5">
@@ -20,7 +20,7 @@ include 'include/header.php';
                         </div>
                     </div>
                     <div class="col-lg-5 col-xl-6 col-md-4 col-sm-12	">
-                        <div class="handswriting"><img class="lozad w-100" data-src="assets/img/WkqoAo.png"></div>
+                        <div class="handswriting"><img class="lozad w-100" data-src="assets/img/banner book.png"></div>
                     </div>
                 </div>
             </div>
@@ -71,7 +71,8 @@ include 'include/header.php';
         </div>
         <div class="container">
             <div class="row">
-                <div class="bookimages col-lg-6 col-md-6 col-sm-12 align-self-center"><img class="lozad w-75" data-src="assets/img/book-cover.webp" alt="American Book Agency"></div>
+                <div class="bookimages col-lg-6 col-md-6 col-sm-12 align-self-center">
+                    <img class="lozad w-75" data-src="assets/img/Book-Video-2-PNG.png" alt="American Book Agency"></div>
                 <div class="part-two col-lg-6 col-md-6 col-sm-12">
                     <h3 class="fw-700 f-36"> Enhance Your Book’s Appeal With Our High-Quality Book Cover Design Services</h3>
                     <p> As a provider of professional book cover design services, we understand the significance of customer satisfaction in the competitive publishing industry. We recognize that a book's cover is the first point of contact with potential
@@ -106,7 +107,7 @@ include 'include/header.php';
         </div>
         <div class="container-xl">
             <div class="row align-items-center">
-                <div class="bookimages col-lg-6 col-md-6 col-sm-12"><img class="lozad" data-src="assets/img/Book-Video-2.png" alt="American Book Agency"></div>
+                <div class="bookimages col-lg-6 col-md-6 col-sm-12"><img class="lozad" data-src="assets/img/Book-Video-3.png" alt="American Book Agency"></div>
                 <div class=" col-lg-6 col-md-6 col-sm-12">
                     <h2 class="fw-700 f-36">Hire Book Cover Design Services And Get High Return On Investment</h2>
                     <p>In the world of book publishing, it is commonly said that we should not judge a book by its cover. However, it is also true that a well-designed book cover can attract more buyers and increase sales. At American Book Agency, we understand
